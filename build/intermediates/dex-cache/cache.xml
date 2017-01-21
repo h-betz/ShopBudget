@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_9e93404083a7ba9b3c3e2d7439568c80ead85ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f73ffcc57caee3892fcd3fafbf888f3e270ebfec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_41e70c7b894924b12d09939607d5ce69306ec633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_8a7799de0e9511b5f8e7db178d7a8d71557cfd06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e813233ea08b61ba57547b0feae80a22d3f00cca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_80009c3e202e6fc7f9555755a60f45e3470decea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_5cb7aa8c1b1b5212f76aa6a22e9bb8980ef9ec0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_f59eaf2875ca523bd2ebe6b0313eb6afcaa11a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ac26bdff4551d192cbee105ba32b5b068a4e0c8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_88096c26ac19ccefadfcd752feb8f7f3842f5592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_a98728628871ddeeba4178d98ac58f94d319fb17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1a2439bdfd67a80e38d0a2fa7c62cf0cc4ca1c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_3dae868a421bf79fcc90dce1cd07bb233c74fd28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_1e9cc65ca98ddb2190aa01726539899ac8002ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Hunter\AndroidstudioProjects\ShopBudget\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_eab346d3c47cc63d416c1617c9eea17cc6591317.jar" />
+    </item>
+
+</items>

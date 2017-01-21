@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:id="@+id/main_layout"
+        android:padding="10dip" >
+
+        <TableLayout
+            android:layout_height="wrap_content" android:orientation="vertical"
+            android:layout_width="fill_parent" android:stretchColumns="*">
+
+            <TableRow
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:stretchColumns="*">
+
+
+                <Button
+                    android:text="+"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".3"
+                    android:minHeight="0dp"
+                    android:minWidth="0dp"
+                    android:padding="5dp"
+                    android:background="@drawable/round_button"
+                    android:id="@+id/addBtn" />
+
+                <EditText
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:inputType="textPersonName"
+                    android:hint="Item Name"
+                    android:ems="10"
+                    android:id="@+id/editItemName" />
+
+                <EditText
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:inputType="numberDecimal"
+                    android:hint="Price"
+                    android:ems="10"
+                    android:id="@+id/editItemPrice" />
+
+                <EditText
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:inputType="numberDecimal"
+                    android:hint="Quantity"
+                    android:ems="10"
+                    android:id="@+id/editItemQty" />
+            </TableRow>
+
+            <TableRow
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:stretchColumns="*">
+
+                <TextView
+                    android:text="Total: "
+                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                    android:layout_span="2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/totalTxt" />
+
+                <TextView
+                    android:text="$0.00"
+                    android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/totalValue" />
+
+
+
+            </TableRow>
+
+        </TableLayout>
+
+        <TextView
+            android:text="Delete"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:paddingTop="15dp"
+            android:paddingBottom="5dp"
+            android:gravity="right"
+            android:layout_gravity="right"
+            android:id="@+id/edit" />
+
+        <TextView
+            android:layout_marginTop="10dip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:text="Shopping List: "/>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="*"
+            android:background="@color/lightYellow"
+            android:id="@+id/list_table">
+
+        </TableLayout>
+
+        <TextView
+            android:layout_marginTop="10dip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:text="Shopping Cart: "/>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:stretchColumns="*"
+            android:background="@color/lightYellow"
+            android:id="@+id/cart_table">
+
+        </TableLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4" />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="0dp" android:layout_height="match_parent"
+    android:paddingTop="5dp"
+    android:paddingBottom="5dp"
+    android:background="@color/lightYellow">
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_span="1"
+        android:id="@+id/deleteBox" />
+
+    <TextView
+        android:text="TextView"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:layout_span="4"
+        android:id="@+id/itemNameCompleted" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:textColor="@color/black"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:layout_height="wrap_content"
+        android:layout_span="2"
+        android:id="@+id/itemPriceCompleted" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:textColor="@color/black"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_span="2"
+        android:id="@+id/itemQtyCompleted" />
+
+</TableRow>
